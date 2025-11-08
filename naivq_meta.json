@@ -1,14 +1,15 @@
 {
-    "name": "NaivQ Token",
-    "symbol": "NaivQ",
-    "description": "NaivQ 🧠💫 — Quantifying naïveté since 2025.\n“All models are wrong — some moon.”\n\nA statistical art project disguised as a meme token — where market psychology meets probabilistic humour.\nForged by the NaivQ Research Division to explore irrational precision and quantified chaos.\n\nsymbol: $NQV • supply: 999,999,999 • decimals: 2\n\nnaivq.xyz • @bylex",
+    "name": "NaivQuant Token",
+    "symbol": "NAIVQ",
+    "uri": "https://naivq.xyz/naivq_meta.json",
     "image": "https://naivq.xyz/naivq_logo.png",
-    "external_url": "https://naivq.xyz",
+    "seller_fee_basis_points": 100,
+    "description": "NAIVQ 🧠💫 — Quantifying naïveté since 2025.\n“All models are wrong — some moon.”\n\nA statistical art project disguised as a meme token — where market psychology meets probabilistic humour.\nForged by the NaivQ Research Division to explore irrational precision and quantified chaos.\n\nsymbol: $NQV • supply: 999,999,999 • decimals: 2\n\nnaivq.xyz • @bylex",
     "attributes": [
-      { "trait_type": "Origin", "value": "NaivQ Research Division" },
-      { "trait_type": "Supply Cap", "value": "999,999,999" },
-      { "trait_type": "Decimals", "value": "2" },
-      { "trait_type": "Concept", "value": "Statistical art meets market psychology" },
-      { "trait_type": "Tagline", "value": "All models are wrong — some moon." }
+        { "trait_type": "Origin", "value": "NAIVQ Research Division" },
+        { "trait_type": "Supply Cap", "value": "999,999,999" },
+        { "trait_type": "Decimals", "value": "2" },
+        { "trait_type": "Concept", "value": "Statistical art meets market psychology" },
+        { "trait_type": "Tagline", "value": "All models are wrong — some moon." }
     ]
-  }
+}
